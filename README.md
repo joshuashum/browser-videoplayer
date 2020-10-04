@@ -4,4 +4,4 @@ A "quick fix" HTML/CSS/JS player created for sharing video files on screensharin
 Not optimized for responsiveness (Created for 2560x1600).
 
 # Example Screenshot
-![Screenshot of Browser Video Player with example text](example.png)
+![Screenshot of Browser Video Player with example text](./images/example.png)
