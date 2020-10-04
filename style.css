@@ -3,7 +3,7 @@ body {
   font-family: 'Lato';
   color: #00204E;
   background-color: #000;
-  background-image: url('./fislidetemplate.png');
+  background-image: url('./images/background.png');
   background-size: cover;
   background-repeat:no-repeat;
 }
